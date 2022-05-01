@@ -6,4 +6,4 @@ Use command
 ```
   npx create-react-app <name>
 ```
-and copy paste [App.js](https://github.com/buzo1234/AI-Product-Description/Frontend/App.js) and [index.html](https://github.com/buzo1234/AI-Product-Description/Frontend/index.html) files from Frontend to your directory
+and copy paste [App.js](https://github.com/buzo1234/AI-Product-Description/blob/main/Frontend/App.js) and [index.html](https://github.com/buzo1234/AI-Product-Description/blob/main/Frontend/index.html) files from Frontend to your directory
