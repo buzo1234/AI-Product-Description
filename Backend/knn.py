@@ -63,7 +63,7 @@ app = Flask(__name__)
 CORS(app)
 
 def getDescription(label):
-    openai.api_key = "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"
+    openai.api_key = "YOUR-OPENAI-API-KEY"
 
     response = openai.Completion.create(
         engine="text-davinci-002",
