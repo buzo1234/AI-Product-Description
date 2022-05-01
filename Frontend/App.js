@@ -31,7 +31,7 @@ function App() {
   }
 
   return (
-    <div className='bg-black h-screen flex justify-evenly items-center text-white '>
+    <div className='bg-black h-screen flex justify-center items-center text-white '>
       <div className='flex h-[667px] w-[375px] border-[35px] border-gray-600 bg-white  rounded-3xl items-center justify-center relative'>
         <div className='flex flex-col h-[627px] absolute w-[335px] bg-white rounded-3xl'>
           <div className='flex w-full flex-col overflow-y-scroll overflow-x-none'>
@@ -100,21 +100,6 @@ function App() {
             </div>
           </div>
         </div>
-      </div>
-
-      <div>
-        <p className='font-mono text-4xl mb-20'>
-          AI generated Product Descriptions
-        </p>
-        <p className='font-mono text-4xl'>Team Members :</p>
-        <p className='font-mono pl-5 mt-5 text-lg'>Karan Dua - 20BAI1012</p>
-        <p className='font-mono pl-5 text-lg'>Deepak Mandava - 20BAI1162</p>
-        <p className='font-mono pl-5 text-lg'>
-          Chirag Chandrashekhar - 20BAI1298
-        </p>
-        <p className='font-mono pl-5 text-lg'>
-          Bitra Bhaskara Yashwant - 20BAI1015
-        </p>
       </div>
     </div>
   );
